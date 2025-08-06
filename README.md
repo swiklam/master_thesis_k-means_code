@@ -1,4 +1,4 @@
-## Clustering of Borehole Logging Data – I-EDDA TC1
+## Clustering of Borehole Logging Data from the I-EDDA-TC1 borehole 
 
 This repository contains the Python workflow used in the context of a Master's thesis to apply unsupervised clustering methods to borehole geophysical logging data from the I-EDDA-TC1 borehole. The main goal is to investigate to what extent physical logging parameters correlate with lithological variations, and to explore the internal structure of the dataset through unsupervised learning.
 <br />
